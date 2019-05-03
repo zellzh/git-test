@@ -1,4 +1,4 @@
-# GIT教程
+# GIT基础教程
 
 ## ·库关系图
 ![库关系图](https://static.oschina.net/uploads/space/2017/1214/113901_cUBI_3375733.png)
